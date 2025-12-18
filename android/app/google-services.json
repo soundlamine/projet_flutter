@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908087767884",
+    "project_id": "calorie-app-7232c",
+    "storage_bucket": "calorie-app-7232c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908087767884:android:5908ae8354471b2da1d5e9",
+        "android_client_info": {
+          "package_name": "com.example.projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQVXSE332VhsX7AHVEiHnXRc1MstY9CAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
